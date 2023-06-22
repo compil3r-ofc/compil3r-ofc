@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @compil3r-ofc
+- 👀 I’m interested in music!
+- 🌱 I’m currently learning rust
+- 💞️ I’m looking to collaborate on music related projects
